@@ -1,0 +1,15 @@
+{
+"stationNameField": "station_name",
+"airTempField": "airtf",
+"windDirField": "winddir",
+"windSpeedField": "ws_mph",
+"windChillField": "windchill_f",
+"wetBulbGlobeField": "wetbulbglobet_f",
+"heatIndexField": "heatindex_f",
+"todaysRainField": "todaysrain_mm",
+"aqiField": "epa_aqi",
+"pm25Field": "pm2_5_10min",
+"rhField": "rh",
+"dewPtField": "tdf"
+
+}
