@@ -1,0 +1,22 @@
+{
+  "dailyWx": {
+    "stationNameField": "station_name",
+    "highAirTempField": "airtc_max",
+    "lowAirTempField": "airtc_min",
+    "highWindSpeedField": "ws_ms_max",
+    "timeHighWindSpeedField": "ws_ms_tmx",
+    "lowWindChillField": "windchill_c_min",
+    "highWetBulbGlobeField": "wetbulbglobet_c_max",
+    "highHeatIndexField": "heatindex_c_max",
+    "yesterdaysRainField": "rain_mm_tot_tot",
+    "highAqiField": "aqi_max",
+    "highRhField": "rh_max",
+    "lowRhField": "rh_min"
+    
+    },
+  "fiveMinWx": {
+    "windDirField": "winddir"
+  }
+    
+
+}
