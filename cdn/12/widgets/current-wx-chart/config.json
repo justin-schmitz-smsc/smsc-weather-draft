@@ -1,0 +1,12 @@
+
+{
+    "stationNameField": "station_name",
+    "airTempField": "airtc_avg",
+    "windSpeedField": "ws_ms_avg",
+    "windDirField": "winddir_d1_wvt",
+    "timeField": "time",
+    "rhField": "rh"
+
+}
+
+
