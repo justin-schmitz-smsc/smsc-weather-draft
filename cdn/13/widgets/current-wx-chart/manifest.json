@@ -1,0 +1,31 @@
+{
+  "name": "current-wx-chart",
+  "label": "Current Wx conditions charts",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "Justin",
+  "description": "Renders charts/infographics to display current conditions.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 600,
+    "height": 700
+  },
+  "dataActions": [],
+  "useDataSources": [
+    {
+      "name": "weatherTable",
+      "label": "Weather (half hour) Conditions Table",
+      "supportedTypes": [
+        "FEATURE_LAYER"
+      ]
+    }
+  ],
+  "properties": {
+    "hasSetting": true
+  }
+}
