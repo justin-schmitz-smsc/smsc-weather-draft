@@ -1,0 +1,14 @@
+{
+    "stationIdField": "station_guid",
+    "stationNameField": "station_name",
+    "highTempField": "airtc_max",
+    "lowTempField": "airtc_min",
+    "averageTempField": "airtc_avg",
+    "averageWindSpeedField": "ws_ms_avg",
+    "totalPrecipField": "rv_pre_accu_tot",
+    "lowAqiField": "aqi_min",
+    "highAqiField": "aqi_max",
+
+    "dateField": "date"   
+
+}
